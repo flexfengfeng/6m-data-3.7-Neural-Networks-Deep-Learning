@@ -12,7 +12,7 @@ This document is a **short reference** — the lesson itself is taught in the no
 
 | Stage | Where to go |
 |---|---|
-| **Pre-class** | `pre-class.md` + `notebooks/01_monday_morning.ipynb` |
+| **Pre-class** | `pre-class.md` + `notebooks/01_morning_briefing.ipynb` |
 | **In-class — Part 1: Perceptron → MLP** | `notebooks/02_perceptron_to_mlp.ipynb` |
 | **In-class — Part 2: Gradient descent + PyTorch basics** | `notebooks/03_gradient_descent.ipynb` |
 | **In-class — Part 3: Full PyTorch training loop** | `notebooks/04_pytorch_training_loop.ipynb` |
@@ -152,6 +152,6 @@ L07 introduces the neural-network playbook — model, loss, optimiser, training 
 
 ---
 
-> *"OK. Now — we're starting an Instagram campaign. Can you automatically tag product PHOTOS so they auto-categorise as 'dress', 'jeans', 'jacket', etc.?"* — Marcus, after Sarah's Friday presentation.
+> *"OK. Now — we're starting an Instagram campaign. Can you automatically tag product PHOTOS so they auto-categorise as 'dress', 'jeans', 'jacket', etc.?"* — Marcus, after Sarah's end-of-day presentation.
 >
 > That question — *prediction from images* — is the engine of **L08 (Computer Vision)**.
