@@ -1,6 +1,6 @@
 # L07 — Neural Networks & Deep Learning
 
-> *Sarah Chen's seventh week at NorthStar Retail. Marcus's question from L06: "Can you predict checkout completion FROM SEQUENTIAL CUSTOMER BEHAVIOUR while they're shopping?" This week she trains her first neural network.*
+> *Sarah Chen's eighth day at NorthStar Retail. Marcus's question from L06: "Can you predict checkout completion FROM SEQUENTIAL CUSTOMER BEHAVIOUR while they're shopping?" Today she trains her first neural network.*
 > By the end of this lesson you will know what a perceptron is, what a multi-layer network does, how gradient descent + backprop make learning work, and how to write a PyTorch training loop end-to-end.
 
 ---
@@ -55,7 +55,7 @@
 
 **Start here →** [**pre-class.md**](./pre-class.md)
 
-You'll run `01_monday_morning.ipynb` to see the customer-session data + watch a video on neural networks + try three mini-exercises. After the video, explore the [**interactive key-concepts page**](https://su-ntu-ctp.github.io/6m-data-3.7-Neural-Networks-Deep-Learning/) (GitHub Pages).
+You'll run `01_morning_briefing.ipynb` to see the customer-session data + watch a video on neural networks + try three mini-exercises. After the video, explore the [**interactive key-concepts page**](https://su-ntu-ctp.github.io/6m-data-3.7-Neural-Networks-Deep-Learning/) (GitHub Pages).
 
 ---
 
@@ -69,9 +69,9 @@ You'll run `01_monday_morning.ipynb` to see the customer-session data + watch a 
 
 | # | Notebook | Sarah's day | What you explore |
 |---|---|---|---|
-| 02 | [`02_perceptron_to_mlp.ipynb`](./notebooks/02_perceptron_to_mlp.ipynb) | Tuesday | Perceptron · why non-linearity is needed · sklearn MLPClassifier baseline |
-| 03 | [`03_gradient_descent.ipynb`](./notebooks/03_gradient_descent.ipynb) | Wednesday | Gradient descent intuition · backprop mental model · simple PyTorch model |
-| 04 | [`04_pytorch_training_loop.ipynb`](./notebooks/04_pytorch_training_loop.ipynb) | Thursday | Full PyTorch training loop · Adam optimiser · compare to L04 baselines |
+| 02 | [`02_perceptron_to_mlp.ipynb`](./notebooks/02_perceptron_to_mlp.ipynb) | Late morning | Perceptron · why non-linearity is needed · sklearn MLPClassifier baseline |
+| 03 | [`03_gradient_descent.ipynb`](./notebooks/03_gradient_descent.ipynb) | Early afternoon | Gradient descent intuition · backprop mental model · simple PyTorch model |
+| 04 | [`04_pytorch_training_loop.ipynb`](./notebooks/04_pytorch_training_loop.ipynb) | Late afternoon | Full PyTorch training loop · Adam optimiser · compare to L04 baselines |
 
 ---
 
@@ -116,7 +116,7 @@ docs/
 notebooks/
   data/
     northstar_sessions.csv             ← 8,000 customer sessions
-  01_monday_morning.ipynb              ← Pre-class hook
+  01_morning_briefing.ipynb              ← Pre-class hook
   02_perceptron_to_mlp.ipynb           ← Part 1: Perceptron → MLP
   03_gradient_descent.ipynb            ← Part 2: GD + PyTorch basics
   04_pytorch_training_loop.ipynb       ← Part 3: Full PyTorch loop + comparison

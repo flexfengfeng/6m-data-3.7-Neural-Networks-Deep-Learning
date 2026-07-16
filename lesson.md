@@ -1,8 +1,8 @@
 # Lesson — L07 Neural Networks & Deep Learning
 
-> **Chapter 7 of the NorthStar Retail story.** *Sarah Chen · Customer Experience Analyst · Week 8.*
+> **Chapter 7 of the NorthStar Retail story.** *Sarah Chen · Customer Experience Analyst · Day 8.*
 > Marcus's brief from end-of-L06: *"Predict checkout completion from sequential customer behaviour — can a neural network do better than the L03/L04 baselines?"* Sarah opens `northstar_sessions.csv`: 8,000 customer sessions, 9 behavioural features, target = did they complete checkout.
-> This week she builds her first neural network — and writes a PyTorch training loop she will reuse for the rest of the course.
+> Today she builds her first neural network — and writes a PyTorch training loop she will reuse for the rest of the course.
 
 This document is a **short reference** — the lesson itself is taught in the notebooks. Read it for orientation before class, then come back to it for the takeaways, the training-run checklist, the review questions, and the course map.
 
@@ -12,7 +12,7 @@ This document is a **short reference** — the lesson itself is taught in the no
 
 | Stage | Where to go |
 |---|---|
-| **Pre-class** | `pre-class.md` + `notebooks/01_monday_morning.ipynb` |
+| **Pre-class** | `pre-class.md` + `notebooks/01_morning_briefing.ipynb` |
 | **In-class — Part 1: Perceptron → MLP** | `notebooks/02_perceptron_to_mlp.ipynb` |
 | **In-class — Part 2: Gradient descent + PyTorch basics** | `notebooks/03_gradient_descent.ipynb` |
 | **In-class — Part 3: Full PyTorch training loop** | `notebooks/04_pytorch_training_loop.ipynb` |
@@ -148,10 +148,10 @@ L07 introduces the neural-network playbook — model, loss, optimiser, training 
 |---|---|
 | **L08 — Computer Vision** | Same five-line training step. The model becomes a CNN (convolutional layers, pooling) and the input is a tensor of pixels rather than a row of features. Transfer learning swaps in a pretrained backbone. |
 | **L09 — NLP & Embeddings** | Same training loop again. The model becomes an embedding + sequence encoder; the input is tokenised text rather than a numeric vector. Loss and optimiser are unchanged. |
-| **L10 — Transformers & GenAI** | The architecture is a transformer, the optimiser is AdamW, the loss is cross-entropy over the vocabulary — but the outer training loop is the same `zero_grad → forward → loss → backward → step` pattern from this week. |
+| **L10 — Transformers & GenAI** | The architecture is a transformer, the optimiser is AdamW, the loss is cross-entropy over the vocabulary — but the outer training loop is the same `zero_grad → forward → loss → backward → step` pattern from today. |
 
 ---
 
-> *"OK. Now — we're starting an Instagram campaign. Can you automatically tag product PHOTOS so they auto-categorise as 'dress', 'jeans', 'jacket', etc.?"* — Marcus, after Sarah's Friday presentation.
+> *"OK. Now — we're starting an Instagram campaign. Can you automatically tag product PHOTOS so they auto-categorise as 'dress', 'jeans', 'jacket', etc.?"* — Marcus, after Sarah's end-of-day presentation.
 >
 > That question — *prediction from images* — is the engine of **L08 (Computer Vision)**.

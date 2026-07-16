@@ -16,7 +16,7 @@ This is the simplest version of "show up prepared": watch a short intro, run one
 
 ▶️ **[L07 Intro — Neural Networks & Deep Learning](https://youtu.be/Xrhz4N-crO8)**
 
-A short orientation to the week: why L07 is the bridge from classical ML to deep learning, and what Sarah is about to build for Marcus's checkout-completion question. Watch it before opening the notebook.
+A short orientation to the day: why L07 is the bridge from classical ML to deep learning, and what Sarah is about to build for Marcus's checkout-completion question. Watch it before opening the notebook.
 
 🕹️ **After the video:** open the [interactive key-concepts page](https://su-ntu-ctp.github.io/6m-data-3.7-Neural-Networks-Deep-Learning/) and play with it for 10–15 minutes. Drag the sliders, click the buttons — you can't break anything. Arriving in class having *seen* these ideas move makes the session far easier.
 
@@ -24,7 +24,7 @@ A short orientation to the week: why L07 is the bridge from classical ML to deep
 
 ## Step 1 — Try it (~20 min)
 
-Open **`notebooks/01_monday_morning.ipynb`** in VS Code with the `dsai-m3` kernel. Run every cell top to bottom. Read the markdown between cells. Don't skip any cell.
+Open **`notebooks/01_morning_briefing.ipynb`** in VS Code with the `dsai-m3` kernel. Run every cell top to bottom. Read the markdown between cells. Don't skip any cell.
 
 Marcus's next ask: predict checkout completion from a customer's session behaviour. Sarah builds her first MLP in PyTorch. The notebook walks through tabular session data, baselines (LR, GB), and a small PyTorch network — and discovers all four models land within 0.015 AUC. Neural nets aren't magic; the lesson is the PyTorch training loop you'll reuse in L08-L10.
 

@@ -71,7 +71,7 @@ When VS Code opens, it may prompt you to install recommended extensions (Python,
 
 ## 5. Select the `dsai-m3` kernel
 
-1. Open `notebooks/01_monday_morning.ipynb`.
+1. Open `notebooks/01_morning_briefing.ipynb`.
 2. In the top-right of the notebook, click **Select Kernel**.
 3. Choose **Python Environments → dsai-m3**.
 
@@ -81,7 +81,7 @@ If `dsai-m3` doesn't appear, restart VS Code and try again. If it still doesn't 
 
 ## 6. Smoke test
 
-In `01_monday_morning.ipynb`, run the first cell (the imports). If it completes without errors, you're set.
+In `01_morning_briefing.ipynb`, run the first cell (the imports). If it completes without errors, you're set.
 
 If you see `ModuleNotFoundError`, the wrong kernel is selected — go back to Step 5. If only `torch` is missing, see Step 3's note.
 
