@@ -6,15 +6,15 @@ This is the simplest version of "show up prepared": watch a short intro, run one
 
 | Step | Time | What you do |
 |---|---|---|
-| **0. Watch** | ~5 min  | Watch the [lesson intro video](https://youtu.be/WESoo1cLmLw) |
-| **1. Try it** | ~20 min | Open and run `notebooks/01_morning_briefing.ipynb` |
+| **0. Watch** | ~5 min  | Watch the [lesson intro video](https://youtu.be/Xrhz4N-crO8) |
+| **1. Try it** | ~20 min | Open and run `notebooks/01_monday_morning.ipynb` |
 | **2. Reflect** | ~5 min  | Three short questions below |
 
 ---
 
 ## Step 0 — Watch the intro video (~5 min)
 
-▶️ **[L07 Intro — Neural Networks & Deep Learning](https://youtu.be/WESoo1cLmLw)**
+▶️ **[L07 Intro — Neural Networks & Deep Learning](https://youtu.be/Xrhz4N-crO8)**
 
 A short orientation to the day: why L07 is the bridge from classical ML to deep learning, and what Sarah is about to build for Marcus's checkout-completion question. Watch it before opening the notebook.
 
