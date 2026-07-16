@@ -1,6 +1,6 @@
 # L07 — Neural Networks & Deep Learning
 
-> *Sarah Chen's seventh week at NorthStar Retail. Marcus's question from L06: "Can you predict checkout completion FROM SEQUENTIAL CUSTOMER BEHAVIOUR while they're shopping?" This week she trains her first neural network.*
+> *Sarah Chen's eighth day at NorthStar Retail. Marcus's question from L06: "Can you predict checkout completion FROM SEQUENTIAL CUSTOMER BEHAVIOUR while they're shopping?" Today she trains her first neural network.*
 > By the end of this lesson you will know what a perceptron is, what a multi-layer network does, how gradient descent + backprop make learning work, and how to write a PyTorch training loop end-to-end.
 
 ---

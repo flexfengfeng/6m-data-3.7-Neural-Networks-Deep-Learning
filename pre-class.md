@@ -16,7 +16,7 @@ This is the simplest version of "show up prepared": watch a short intro, run one
 
 ▶️ **[L07 Intro — Neural Networks & Deep Learning](https://youtu.be/WESoo1cLmLw)**
 
-A short orientation to the week: why L07 is the bridge from classical ML to deep learning, and what Sarah is about to build for Marcus's checkout-completion question. Watch it before opening the notebook.
+A short orientation to the day: why L07 is the bridge from classical ML to deep learning, and what Sarah is about to build for Marcus's checkout-completion question. Watch it before opening the notebook.
 
 🕹️ **After the video:** open the [interactive key-concepts page](https://su-ntu-ctp.github.io/6m-data-3.7-Neural-Networks-Deep-Learning/) and play with it for 10–15 minutes. Drag the sliders, click the buttons — you can't break anything. Arriving in class having *seen* these ideas move makes the session far easier.
 
